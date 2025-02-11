@@ -9,6 +9,8 @@ public class Product {
      private String state;
      private long zip;
 
+     private int number;
+
     public int getId() {
         return id;
     }
