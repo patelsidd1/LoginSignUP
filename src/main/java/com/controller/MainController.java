@@ -1,7 +1,12 @@
 package com.controller;
 
+import com.model.User;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+
+import javax.servlet.http.HttpSession;
 
 @Controller
 public class MainController {
@@ -17,16 +22,16 @@ public class MainController {
         System.out.println("This is signup page ");
         return "signup";
     }
+
+
     @RequestMapping("/login")
     public String login(){
         System.out.println("This is login page ");
         return "login";
     }
 
-    @RequestMapping("/registration")
-    public String registration(){
-        System.out.println("This is registration page ");
-        return "registrationform";
-    }
+
+
+
 
 }

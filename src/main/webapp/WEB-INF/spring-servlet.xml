@@ -33,14 +33,18 @@
         <property name="username" value="root"/>
         <property name="password" value="abcd@123"/>
 
-
     </bean>
+<!--    <bean id="userdao" class="com.dao.UserDao">-->
+<!--        <property name="sessionFactory" ref="factory"/>-->
+<!--    </bean>-->
+
 
     <!--    Local Session Factory Bean-->
 
     <bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean" name="factory">
         <!--        Data Source-->
         <property name="dataSource" ref="ds"/>
+
 
         <!--        Hibernate Properties-->
         <property name="hibernateProperties">
@@ -55,7 +59,7 @@
         <!--        Annotated Class-->
         <property name="annotatedClasses">
             <list>
-                <value>com.Model.Product</value>
+                <value>com.model.User</value>
             </list>
         </property>
 

@@ -2,7 +2,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-
+<title> Login Page </title>
   <%@ include file = "./base.jsp"%>
 
   <style>
@@ -24,13 +24,12 @@
 </h1>
 
 
-
-
 <div style="display: flex; justify-content: center; align-items: center; height: 60vh;">
-  <form style="width: 350px; padding: 20px; border-radius: 10px; background: #f8f9fa; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <form action="${pageContext.request.contextPath}/loginotp/generate" method="post"
+  style="width: 350px; padding: 20px; border-radius: 10px; background: #f8f9fa; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
     <div class="form-group">
       <label for="phoneNumber" style="font-weight: bold; font-size: 1.1rem;">Enter Your Phone Number</label>
-      <input type="tel" class="form-control" id="phoneNumber" placeholder="Enter Phone No." required
+      <input type="tel" class="form-control" id="phoneNumber" name="mobile" placeholder="Enter Phone No." required
         style="border-radius: 5px; padding: 10px; font-size: 1rem;">
       <small class="form-text text-muted">We'll never share your phone number with anyone else.</small>
     </div>
