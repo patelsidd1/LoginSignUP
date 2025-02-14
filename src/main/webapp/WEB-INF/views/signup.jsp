@@ -1,3 +1,6 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -17,7 +20,7 @@
 
 </head>
 <body>
-<h1 class="text-center mb-3"
+<h1 class="text-center mb-3 mt-3"
     style="font-size: 2.5rem; font-weight: bold; color: #333; text-transform: capitalize;
            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); padding: 10px;">
     Sign Up <span style="color: #007bff; font-weight: bold;">Page</span>
@@ -39,6 +42,25 @@
       style="padding: 10px; font-size: 1.2rem; font-weight: bold; border-radius: 5px;">Generate OTP</button>
   </form>
 </div>
+
+<%-- Display error message if it exists --%>
+
+<c:if test="${not empty error}">
+    <div style="
+        color: #721c24;
+        background-color: #f8d7da;
+        border: 1px solid #f5c6cb;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 1rem;
+        text-align: center;
+        font-weight: 500;
+        margin-top: 10px;
+        ">
+        ${error}
+    </div>
+</c:if>
+
 
 </body>
 </html>

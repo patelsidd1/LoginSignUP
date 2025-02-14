@@ -15,7 +15,6 @@
           }
   </style>
 
-
     <title>Login SignUp</title>
   </head>
   <body>
