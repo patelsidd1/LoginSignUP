@@ -24,6 +24,12 @@
         <property name="suffix" value=".jsp" />
     </bean>
 
+<!--    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
+<!--        &lt;!&ndash; Set max upload size (optional) &ndash;&gt;-->
+<!--        <property name="maxUploadSize" value="5242880"/> &lt;!&ndash; 5MB &ndash;&gt;-->
+<!--    </bean>-->
+
+
 
     <!--    Data  Source-->
     <bean class="org.springframework.jdbc.datasource.DriverManagerDataSource" name="ds">
@@ -34,10 +40,6 @@
         <property name="password" value="abcd@123"/>
 
     </bean>
-<!--    <bean id="userdao" class="com.dao.UserDao">-->
-<!--        <property name="sessionFactory" ref="factory"/>-->
-<!--    </bean>-->
-
 
     <!--    Local Session Factory Bean-->
 
