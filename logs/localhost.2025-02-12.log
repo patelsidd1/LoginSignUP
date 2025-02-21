@@ -1,0 +1,426 @@
+12-Feb-2025 11:20:51.114 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 11:21:09.078 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 11:28:08.224 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 11:28:28.783 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 11:31:30.585 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 11:44:45.801 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 11:45:01.696 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 11:45:17.049 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 11:51:50.250 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 11:52:05.429 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 11:52:13.118 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:26:04.380 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:26:13.958 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:32:02.801 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 12:32:12.166 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:32:15.367 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:36:32.086 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 12:36:42.586 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:36:46.125 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:39:22.911 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 12:39:33.813 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:39:37.926 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:45:53.472 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 12:46:04.847 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:46:07.362 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 12:47:57.188 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 12:48:08.002 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 12:49:03.049 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:13:42.790 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:13:54.406 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:13:57.951 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:20:24.492 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:20:35.540 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:20:42.840 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:22:41.749 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:22:52.560 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:22:56.052 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:27:37.963 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:27:48.350 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:27:57.961 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:31:51.011 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:32:01.326 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:32:06.018 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:33:46.762 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:33:57.043 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:34:10.145 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 13:41:12.181 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 13:41:23.177 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 13:41:26.626 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 14:02:45.963 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 14:02:57.339 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 14:03:01.814 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 14:05:31.220 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 14:05:40.330 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 14:05:45.617 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 14:06:57.103 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 14:07:07.450 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 14:07:11.105 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 14:11:17.016 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 14:11:26.384 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 14:11:29.975 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 15:06:55.443 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 15:07:06.317 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 15:07:15.631 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 15:19:13.316 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 15:19:25.662 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 15:19:33.592 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 15:46:07.191 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 15:46:19.478 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 15:46:26.721 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 15:46:31.095 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Servlet.init() for servlet [spring] threw exception
+	org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'productDao': Unsatisfied dependency expressed through field 'hibernateTemplate'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hibernateTemplate' defined in ServletContext resource [/WEB-INF/spring-servlet.xml]: Cannot resolve reference to bean 'factory' while setting bean property 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'factory' defined in ServletContext resource [/WEB-INF/spring-servlet.xml]: Initialization of bean failed; nested exception is org.springframework.beans.TypeMismatchException: Failed to convert property value of type 'java.util.ArrayList' to required type 'java.lang.Class[]' for property 'annotatedClasses'; nested exception is java.lang.IllegalArgumentException: Could not find class [com.Model.Product]
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:660)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1425)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+		at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:984)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:941)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:659)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+	Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'hibernateTemplate' defined in ServletContext resource [/WEB-INF/spring-servlet.xml]: Cannot resolve reference to bean 'factory' while setting bean property 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'factory' defined in ServletContext resource [/WEB-INF/spring-servlet.xml]: Initialization of bean failed; nested exception is org.springframework.beans.TypeMismatchException: Failed to convert property value of type 'java.util.ArrayList' to required type 'java.lang.Class[]' for property 'annotatedClasses'; nested exception is java.lang.IllegalArgumentException: Could not find class [com.Model.Product]
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:342)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:113)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1702)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1447)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+		... 40 more
+	Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'factory' defined in ServletContext resource [/WEB-INF/spring-servlet.xml]: Initialization of bean failed; nested exception is org.springframework.beans.TypeMismatchException: Failed to convert property value of type 'java.util.ArrayList' to required type 'java.lang.Class[]' for property 'annotatedClasses'; nested exception is java.lang.IllegalArgumentException: Could not find class [com.Model.Product]
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:330)
+		... 53 more
+	Caused by: org.springframework.beans.TypeMismatchException: Failed to convert property value of type 'java.util.ArrayList' to required type 'java.lang.Class[]' for property 'annotatedClasses'; nested exception is java.lang.IllegalArgumentException: Could not find class [com.Model.Product]
+		at org.springframework.beans.AbstractNestablePropertyAccessor.convertIfNecessary(AbstractNestablePropertyAccessor.java:598)
+		at org.springframework.beans.AbstractNestablePropertyAccessor.convertForProperty(AbstractNestablePropertyAccessor.java:607)
+		at org.springframework.beans.BeanWrapperImpl.convertForProperty(BeanWrapperImpl.java:219)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.convertForProperty(AbstractAutowireCapableBeanFactory.java:1751)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1707)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1447)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		... 59 more
+	Caused by: java.lang.IllegalArgumentException: Could not find class [com.Model.Product]
+		at org.springframework.util.ClassUtils.resolveClassName(ClassUtils.java:334)
+		at org.springframework.beans.propertyeditors.ClassEditor.setAsText(ClassEditor.java:65)
+		at org.springframework.beans.TypeConverterDelegate.doConvertTextValue(TypeConverterDelegate.java:429)
+		at org.springframework.beans.TypeConverterDelegate.doConvertValue(TypeConverterDelegate.java:402)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:155)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:98)
+		at org.springframework.beans.TypeConverterDelegate.convertToTypedArray(TypeConverterDelegate.java:440)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:172)
+		at org.springframework.beans.AbstractNestablePropertyAccessor.convertIfNecessary(AbstractNestablePropertyAccessor.java:588)
+		... 65 more
+	Caused by: java.lang.ClassNotFoundException: com.Model.Product
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1349)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1158)
+		at java.base/java.lang.Class.forName0(Native Method)
+		at java.base/java.lang.Class.forName(Class.java:467)
+		at org.springframework.util.ClassUtils.forName(ClassUtils.java:284)
+		at org.springframework.util.ClassUtils.resolveClassName(ClassUtils.java:324)
+		... 73 more
+12-Feb-2025 15:46:31.095 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Allocate exception for servlet [spring]
+	java.lang.ClassNotFoundException: com.Model.Product
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1349)
+		at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1158)
+		at java.base/java.lang.Class.forName0(Native Method)
+		at java.base/java.lang.Class.forName(Class.java:467)
+		at org.springframework.util.ClassUtils.forName(ClassUtils.java:284)
+		at org.springframework.util.ClassUtils.resolveClassName(ClassUtils.java:324)
+		at org.springframework.beans.propertyeditors.ClassEditor.setAsText(ClassEditor.java:65)
+		at org.springframework.beans.TypeConverterDelegate.doConvertTextValue(TypeConverterDelegate.java:429)
+		at org.springframework.beans.TypeConverterDelegate.doConvertValue(TypeConverterDelegate.java:402)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:155)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:98)
+		at org.springframework.beans.TypeConverterDelegate.convertToTypedArray(TypeConverterDelegate.java:440)
+		at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:172)
+		at org.springframework.beans.AbstractNestablePropertyAccessor.convertIfNecessary(AbstractNestablePropertyAccessor.java:588)
+		at org.springframework.beans.AbstractNestablePropertyAccessor.convertForProperty(AbstractNestablePropertyAccessor.java:607)
+		at org.springframework.beans.BeanWrapperImpl.convertForProperty(BeanWrapperImpl.java:219)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.convertForProperty(AbstractAutowireCapableBeanFactory.java:1751)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1707)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1447)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:330)
+		at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:113)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1702)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1447)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+		at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+		at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1425)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+		at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+		at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+		at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+		at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+		at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+		at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+		at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:702)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:668)
+		at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:716)
+		at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:591)
+		at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:530)
+		at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:170)
+		at javax.servlet.GenericServlet.init(GenericServlet.java:143)
+		at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:984)
+		at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:941)
+		at org.apache.catalina.core.StandardWrapper.allocate(StandardWrapper.java:659)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:116)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+12-Feb-2025 15:50:17.810 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 15:50:32.889 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 15:50:36.597 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 15:59:46.165 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 15:59:58.078 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 16:00:04.714 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 16:37:58.937 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 16:38:12.038 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 16:38:16.799 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 18:06:45.673 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 18:07:15.827 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 18:07:44.640 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 18:09:47.694 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.dao.UserDao.createDetails(com.model.User)" because "this.userDao" is null] with root cause
+	java.lang.NullPointerException: Cannot invoke "com.dao.UserDao.createDetails(com.model.User)" because "this.userDao" is null
+		at com.controller.SignupController.handleProduct(SignupController.java:60)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+12-Feb-2025 18:13:24.062 SEVERE [http-nio-8080-exec-1] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.dao.UserDao.createDetails(com.model.User)" because "this.userDao" is null] with root cause
+	java.lang.NullPointerException: Cannot invoke "com.dao.UserDao.createDetails(com.model.User)" because "this.userDao" is null
+		at com.controller.SignupController.handleProduct(SignupController.java:60)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+12-Feb-2025 18:15:20.730 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 18:15:42.615 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 18:16:15.880 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 18:28:58.338 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+12-Feb-2025 18:29:20.910 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+12-Feb-2025 18:29:26.174 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+12-Feb-2025 18:30:26.922 SEVERE [http-nio-8080-exec-2] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [Request processing failed; nested exception is org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [user.UK_2i4ni4xn4lgj8ljytfle585je]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement] with root cause
+	java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '6392986560' for key 'user.UK_2i4ni4xn4lgj8ljytfle585je'
+		at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:118)
+		at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:916)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1061)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1009)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1320)
+		at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:994)
+		at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:175)
+		at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3181)
+		at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3696)
+		at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:90)
+		at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+		at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:478)
+		at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:356)
+		at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:39)
+		at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1484)
+		at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:515)
+		at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3355)
+		at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2526)
+		at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:473)
+		at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:178)
+		at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:39)
+		at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:271)
+		at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:104)
+		at org.springframework.orm.hibernate5.HibernateTransactionManager.doCommit(HibernateTransactionManager.java:643)
+		at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+		at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+		at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+		at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+		at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+		at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+		at org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:749)
+		at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:691)
+		at com.dao.UserDao$$EnhancerBySpringCGLIB$$22fa6d88.createDetails(<generated>)
+		at com.controller.SignupController.handleProduct(SignupController.java:59)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+		at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+		at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+		at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+		at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+12-Feb-2025 19:52:45.006 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'

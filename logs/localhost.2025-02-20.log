@@ -1,0 +1,497 @@
+20-Feb-2025 11:20:01.724 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 11:20:07.820 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 11:38:18.073 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 11:38:39.964 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 11:38:46.322 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 11:44:03.088 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 11:44:18.577 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 11:44:23.529 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 11:59:07.875 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 11:59:27.433 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 11:59:39.809 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 12:55:53.474 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 12:56:12.611 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 12:56:28.128 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 15:45:18.143 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 15:45:35.509 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 15:45:39.604 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 15:47:30.045 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 15:47:41.732 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 15:47:44.514 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 15:50:53.534 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 15:51:05.914 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 15:51:09.859 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 15:58:10.196 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 15:58:22.635 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 15:58:25.934 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:00:31.439 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:00:43.210 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:00:48.214 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:04:29.201 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:04:40.894 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:04:43.896 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:08:02.853 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:08:15.520 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:08:34.669 INFO [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:14:51.322 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:15:10.257 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:15:15.155 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:21:55.325 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:22:04.889 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:22:09.118 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:22:48.637 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	javax.el.PropertyNotFoundException: Property [pImage] not found on type [com.model.User]
+		at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:253)
+		at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:206)
+		at javax.el.BeanELResolver.property(BeanELResolver.java:322)
+		at javax.el.BeanELResolver.getValue(BeanELResolver.java:93)
+		at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:160)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:151)
+		at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:689)
+		at org.apache.jsp.WEB_002dINF.views.dashboard_jsp._jspService(dashboard_jsp.java:249)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:67)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:22:48.639 SEVERE [http-nio-8080-exec-10] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [An exception occurred processing [/WEB-INF/views/dashboard.jsp] at line [84]
+
+81:                </div>
+82:                 <div class="user-detail">
+83:                                   <span class="label">Zip Code:</span>
+84:                                   <span>${user.pImage}</span>
+85:                               </div>
+86:            </div>
+87:        </div>
+
+
+Stacktrace:] with root cause
+	javax.el.PropertyNotFoundException: Property [pImage] not found on type [com.model.User]
+		at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:253)
+		at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:206)
+		at javax.el.BeanELResolver.property(BeanELResolver.java:322)
+		at javax.el.BeanELResolver.getValue(BeanELResolver.java:93)
+		at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:160)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:151)
+		at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:689)
+		at org.apache.jsp.WEB_002dINF.views.dashboard_jsp._jspService(dashboard_jsp.java:249)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:67)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:24:31.815 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:24:41.615 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:24:45.022 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:25:15.171 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	javax.el.PropertyNotFoundException: Property [pImage] not found on type [com.model.User]
+		at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:253)
+		at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:206)
+		at javax.el.BeanELResolver.property(BeanELResolver.java:322)
+		at javax.el.BeanELResolver.getValue(BeanELResolver.java:93)
+		at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:160)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:151)
+		at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:689)
+		at org.apache.jsp.WEB_002dINF.views.dashboard_jsp._jspService(dashboard_jsp.java:249)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:67)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:25:15.171 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [An exception occurred processing [/WEB-INF/views/dashboard.jsp] at line [84]
+
+81:                </div>
+82:                 <div class="user-detail">
+83:                     <span class="label">Profile Image:</span>
+84:                     <img src="${user.pImage}" alt="User Image" style="width: 100px; height: 100px; border-radius: 50%;">
+85:                 </div>
+86: 
+87:            </div>
+
+
+Stacktrace:] with root cause
+	javax.el.PropertyNotFoundException: Property [pImage] not found on type [com.model.User]
+		at javax.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:253)
+		at javax.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:206)
+		at javax.el.BeanELResolver.property(BeanELResolver.java:322)
+		at javax.el.BeanELResolver.getValue(BeanELResolver.java:93)
+		at org.apache.jasper.el.JasperELResolver.getValue(JasperELResolver.java:125)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:160)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:151)
+		at org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate(PageContextImpl.java:689)
+		at org.apache.jsp.WEB_002dINF.views.dashboard_jsp._jspService(dashboard_jsp.java:249)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:67)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:466)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:26:26.790 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:26:36.004 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:26:43.927 INFO [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:28:40.400 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:28:49.468 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:28:53.146 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:29:22.132 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationDispatcher.invoke Servlet.service() for servlet [jsp] threw exception
+	org.apache.el.parser.ParseException: Encountered " "/" "/ "" at line 1, column 3.
+Was expecting one of:
+    "{" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    "null" ...
+    "(" ...
+    "[" ...
+    "!" ...
+    "not" ...
+    "empty" ...
+    "-" ...
+    <IDENTIFIER> ...
+    <IDENTIFIER> ...
+    "(" ...
+    
+		at org.apache.el.parser.ELParser.generateParseException(ELParser.java:4204)
+		at org.apache.el.parser.ELParser.jj_consume_token(ELParser.java:4048)
+		at org.apache.el.parser.ELParser.Assignment(ELParser.java:343)
+		at org.apache.el.parser.ELParser.Semicolon(ELParser.java:221)
+		at org.apache.el.parser.ELParser.Expression(ELParser.java:214)
+		at org.apache.el.parser.ELParser.DynamicExpression(ELParser.java:175)
+		at org.apache.el.parser.ELParser.CompositeExpression(ELParser.java:47)
+		at org.apache.el.lang.ExpressionBuilder.createNodeInternal(ExpressionBuilder.java:109)
+		at org.apache.el.lang.ExpressionBuilder.build(ExpressionBuilder.java:168)
+		at org.apache.el.lang.ExpressionBuilder.createValueExpression(ExpressionBuilder.java:221)
+		at org.apache.el.ExpressionFactoryImpl.createValueExpression(ExpressionFactoryImpl.java:62)
+		at org.apache.jasper.compiler.Validator$ValidateVisitor.prepareExpression(Validator.java:1642)
+		at org.apache.jasper.compiler.Validator$ValidateVisitor.visit(Validator.java:771)
+		at org.apache.jasper.compiler.Node$ELExpression.accept(Node.java:955)
+		at org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2381)
+		at org.apache.jasper.compiler.Node$Visitor.visitBody(Node.java:2437)
+		at org.apache.jasper.compiler.Node$Visitor.visit(Node.java:2443)
+		at org.apache.jasper.compiler.Node$Root.accept(Node.java:467)
+		at org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2381)
+		at org.apache.jasper.compiler.Validator.validateExDirectives(Validator.java:1869)
+		at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:209)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:343)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:329)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:29:22.133 SEVERE [http-nio-8080-exec-8] org.apache.catalina.core.StandardWrapperValve.invoke Servlet.service() for servlet [spring] in context with path [/LoginSignUp] threw exception [org.apache.jasper.JasperException: javax.el.ELException: Failed to parse the expression [${/images/user.profileImage}]] with root cause
+	org.apache.el.parser.ParseException: Encountered " "/" "/ "" at line 1, column 3.
+Was expecting one of:
+    "{" ...
+    <INTEGER_LITERAL> ...
+    <FLOATING_POINT_LITERAL> ...
+    <STRING_LITERAL> ...
+    "true" ...
+    "false" ...
+    "null" ...
+    "(" ...
+    "[" ...
+    "!" ...
+    "not" ...
+    "empty" ...
+    "-" ...
+    <IDENTIFIER> ...
+    <IDENTIFIER> ...
+    "(" ...
+    
+		at org.apache.el.parser.ELParser.generateParseException(ELParser.java:4204)
+		at org.apache.el.parser.ELParser.jj_consume_token(ELParser.java:4048)
+		at org.apache.el.parser.ELParser.Assignment(ELParser.java:343)
+		at org.apache.el.parser.ELParser.Semicolon(ELParser.java:221)
+		at org.apache.el.parser.ELParser.Expression(ELParser.java:214)
+		at org.apache.el.parser.ELParser.DynamicExpression(ELParser.java:175)
+		at org.apache.el.parser.ELParser.CompositeExpression(ELParser.java:47)
+		at org.apache.el.lang.ExpressionBuilder.createNodeInternal(ExpressionBuilder.java:109)
+		at org.apache.el.lang.ExpressionBuilder.build(ExpressionBuilder.java:168)
+		at org.apache.el.lang.ExpressionBuilder.createValueExpression(ExpressionBuilder.java:221)
+		at org.apache.el.ExpressionFactoryImpl.createValueExpression(ExpressionFactoryImpl.java:62)
+		at org.apache.jasper.compiler.Validator$ValidateVisitor.prepareExpression(Validator.java:1642)
+		at org.apache.jasper.compiler.Validator$ValidateVisitor.visit(Validator.java:771)
+		at org.apache.jasper.compiler.Node$ELExpression.accept(Node.java:955)
+		at org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2381)
+		at org.apache.jasper.compiler.Node$Visitor.visitBody(Node.java:2437)
+		at org.apache.jasper.compiler.Node$Visitor.visit(Node.java:2443)
+		at org.apache.jasper.compiler.Node$Root.accept(Node.java:467)
+		at org.apache.jasper.compiler.Node$Nodes.visit(Node.java:2381)
+		at org.apache.jasper.compiler.Validator.validateExDirectives(Validator.java:1869)
+		at org.apache.jasper.compiler.Compiler.generateJava(Compiler.java:209)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:365)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:343)
+		at org.apache.jasper.compiler.Compiler.compile(Compiler.java:329)
+		at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:603)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:399)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:376)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:324)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:642)
+		at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:416)
+		at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:348)
+		at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:285)
+		at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:171)
+		at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316)
+		at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373)
+		at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118)
+		at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057)
+		at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+		at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+		at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+		at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:199)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:168)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:144)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:130)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:660)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:346)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:396)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:937)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1791)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:842)
+20-Feb-2025 16:35:04.665 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:35:14.802 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:35:17.860 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 16:45:55.953 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
+20-Feb-2025 16:46:08.462 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+20-Feb-2025 16:46:11.557 INFO [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring'
+20-Feb-2025 19:47:30.045 INFO [Thread-1] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring'
