@@ -24,12 +24,6 @@
         <property name="suffix" value=".jsp" />
     </bean>
 
-<!--    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
-<!--        &lt;!&ndash; Set max upload size (optional) &ndash;&gt;-->
-<!--        <property name="maxUploadSize" value="5242880"/> &lt;!&ndash; 5MB &ndash;&gt;-->
-<!--    </bean>-->
-
-
 
     <!--    Data  Source-->
     <bean class="org.springframework.jdbc.datasource.DriverManagerDataSource" name="ds">
@@ -46,7 +40,6 @@
     <bean class="org.springframework.orm.hibernate5.LocalSessionFactoryBean" name="factory">
         <!--        Data Source-->
         <property name="dataSource" ref="ds"/>
-
 
         <!--        Hibernate Properties-->
         <property name="hibernateProperties">
@@ -73,5 +66,13 @@
     <bean class="org.springframework.orm.hibernate5.HibernateTransactionManager" name="transactionManager">
         <property name="sessionFactory" ref="factory"/>
     </bean>
+
+    <mvc:annotation-driven />
+    <mvc:resources mapping="/images/**" location="/images/"/>
+
+    <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">
+        <property name="maxUploadSize" value="5242880"/>  <!-- 5MB limit -->
+    </bean>
+
 
 </beans>

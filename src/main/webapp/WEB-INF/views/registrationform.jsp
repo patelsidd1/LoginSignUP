@@ -130,7 +130,7 @@
                     <!-- Image Upload Section -->
                     <div class="form-group">
                         <label style="font-weight: bold;">Upload Profile Image</label>
-                        <input type="file" class="form-control" name="profileImage" accept="image/*" onchange="previewImage(event)" required>
+                        <input type="file" class="form-control" name="pImage" accept="image/*" onchange="previewImage(event)" required>
 
                         <!-- Image Preview -->
                         <div class="preview-container">
